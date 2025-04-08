@@ -85,6 +85,8 @@ DATABASES = {
     }
 }
 
+# Added by Copilot agent mode for MongoDB compatibility
+
 # Enable CORS
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_METHODS = ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
